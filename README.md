@@ -1,7 +1,7 @@
 # Aura  
 *Personalized, voice-driven AI assistant with end-to-end command execution and advanced privacy.*
 
-Aura is a cross-platform, federated-learning-enabled assistant that converts natural-language voice commands into safe, sandboxed CLI actions and API calls. Built by the TensionFlow team, Aura combines cutting-edge ASR, a customizable LLM pipeline, and live integrations to help you automate complex tasks—while keeping your data private.
+Aura is a cross-platform, federated-learning-enabled assistant that converts natural-language voice commands into safe, sandboxed CLI actions and API calls. Built by the TensionFlow team, Aura combines cutting-edge ASR, a customizable LLM pipeline, and live integrations to help you automate complex tasks while keeping your data private.
 
 ---
 
@@ -55,8 +55,6 @@ Plug-and-play connectors: Google, WhatsApp, Spotify, news/weather/sports, and mo
  Redacted transcripts → central LLM updates without exposing raw user data  
 5. **Result Delivery**  
  Voice or text responses; optional logging/visual UI  
-
-![Architecture Diagram](./docs/architecture.png)
 
 ---
 
